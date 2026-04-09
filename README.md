@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://chat-app-gules-one-29.vercel.app
+👉 https://chatapp-sunny.vercel.app/chat
 
 ---
 
@@ -42,9 +42,7 @@
 
 ## 🎥 Demo Preview
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V5b3B2eWJtY2JxZ3M2b3R2eWJzY2R6Z2l5bG9rZzZ6b2h5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-</p>
+
 
 ---
 
