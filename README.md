@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://chatapp-sunny.vercel.app/chat
+👉 [https://chatapp-sunny.vercel.app/chat](https://chatapp-sunny.vercel.app/)
 
 ---
 
