@@ -15,7 +15,8 @@
 
 ## 🌐 Live Demo
 
-👉 https://chatapp-sunny.vercel.app
+👉 https://chatapp-sunny.vercel.app/chat
+
 ---
 
 ## ✨ Features
@@ -41,7 +42,10 @@
 
 ## 🎥 Demo Preview
 
-
+<p align="center">
+  <img src="./public/signup.png" width="700"/>
+  <img src="./public/chat.png" width="700"/>
+</p>
 
 ---
 
