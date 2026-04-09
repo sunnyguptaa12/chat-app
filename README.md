@@ -1,16 +1,119 @@
-# React + Vite
+# 💬 Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-yellow?logo=firebase" />
+  <img src="https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel" />
+  <img src="https://img.shields.io/badge/Status-Live-success" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  🚀 Real-time Chat Application built with React & Firebase  
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 https://chat-app-gules-one-29.vercel.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* 🔐 Authentication (Login / Signup)
+* 💬 Real-time messaging
+* 🖼️ Image sharing
+* ⚡ Fast UI with Vite
+* 📱 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech         | Usage           |
+| ------------ | --------------- |
+| React (Vite) | Frontend UI     |
+| Firebase     | Auth + Database |
+| Vercel       | Deployment      |
+| GitHub       | Version Control |
+
+---
+
+## 🎥 Demo Preview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V5b3B2eWJtY2JxZ3M2b3R2eWJzY2R6Z2l5bG9rZzZ6b2h5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 📂 Project Structure
+
+```
+chat-app/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── context/
+│   ├── config/
+│── package.json
+│── vite.config.js
+```
+
+---
+
+## ⚙️ Setup
+
+```bash
+git clone https://github.com/sunnyguptaa12/chat-app.git
+cd chat-app
+npm install
+npm run dev
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create `.env` file:
+
+```
+VITE_FIREBASE_API_KEY=your_key
+VITE_FIREBASE_AUTH_DOMAIN=your_domain
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+```
+
+---
+
+## 🚀 Deployment
+
+Deployed on **Vercel**
+✔ Auto-deploy on every push
+
+---
+
+## 📈 Future Enhancements
+
+* 🔔 Notifications
+* ✍️ Typing indicator
+* ❌ Delete messages
+* 🌙 Dark mode
+
+---
+
+## 👨‍💻 Author
+
+**Sunny Gupta**
+🔗 https://github.com/sunnyguptaa12
+
+---
+
+## ⭐ Show your support
+
+If you like this project, give it a ⭐ on GitHub!
